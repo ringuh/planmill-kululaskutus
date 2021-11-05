@@ -1,0 +1,6 @@
+__pycache__/*
+*.html
+*.xml
+*.png
+*.pdf
+secret.py
